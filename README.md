@@ -3,7 +3,7 @@ A program that represents a Bus-Station using semaphores, fork and exec.
 
 
 ## Installation 
-From terminal, inside src folder run "make".
+From terminal, inside src folder run ```make```
 
 ## Explanatory Diagram
 ![diagram](img/diagram.png)

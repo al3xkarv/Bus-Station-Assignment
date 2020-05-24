@@ -1,0 +1,5 @@
+bays 3
+ASK 4 23
+PEL 3 12
+VOR 4 14
+max_wait 2
